@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">eScan</string>
+    <string name="info_login">Wybierz sieć w której sie znajdujesz</string>
+    <string name="button_main">Skanuj</string>
+    <string name="info_main">ZESKANUJ KOD KRESKOWY ARTYKUŁU</string>
+    <string name="search_view_login">wpisz nazwe sklepu lub miasta...</string>
+    <string name="dane_sklepu">Nazwa_sklepu; Ulica; NR;</string>
+    <string name="nazwa_art">nazwa: </string>
+    <string name="cena_art">cena: </string>
+    <string name="stan_art">stan: </string>
+    <string name="ean_art">PLU: </string>
+    <string name="shop_location">Łódź, ul. Inflancka 45</string>
+    <string name="chain_shops">E.Leclerc</string>
+</resources>
